@@ -1,0 +1,17 @@
+.photos{
+    margin: auto;
+}
+.photos ul{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    -ms-align-items: flex-start;
+    align-items: flex-start
+}
+
+.photos ul li{
+    width: 220px;
+    height: 165px;
+    overflow: hidden;
+    margin-bottom: 15px;
+}

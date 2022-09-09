@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+  margin: 0%;
+  padding: 0%;
+}
+
+.container {
+  margin: auto;
+  max-width: 960px;
+  padding:70px 8px;
+}
